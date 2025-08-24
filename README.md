@@ -47,5 +47,4 @@ The loan decision is based on these simple rules:
 
 ### 1. Clone Repository  
 ```bash
-git clone https://github.com/yourusername/loan-approval-classifier.git
-cd loan-approval-classifier
+https://github.com/meeraaj/-Rule-Based-Classifier

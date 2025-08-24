@@ -1,0 +1,11 @@
+Income,Credit,Employed,Approved
+High,Good,Yes,Approved
+Low,Poor,No,Rejected
+High,Poor,Yes,Approved
+Low,Good,Yes,Approved
+Low,Poor,Yes,Rejected
+High,Good,No,Approved
+Low,Good,No,Rejected
+High,Poor,No,Approved
+Low,Poor,No,Rejected
+High,Good,Yes,Approved
